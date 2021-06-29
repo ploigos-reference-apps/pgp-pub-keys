@@ -5,6 +5,7 @@ used on the SOPS encrypted config files in the various repositories in https://g
 
 # Use
 
+```bash
 gpg --import pgp-public-keys/*
 gpg --import pgp-public-keys/robots/*
-
+```
